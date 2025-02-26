@@ -20,10 +20,6 @@ def ola_mundo(){
 
 ## Atividade
 
-Crie um relató0rio no seu perfil do GitHub com um arquivo README.md para adicionar uma nova seção ao seu perfil público Essa nova seção deve incluir os seguintes tópicos:
+# Bom dia sou o Heitor 🔥
 
-- Quem é você (Uma brave biosobre você)
-- O que está estudando
-- Que carreiras gostaria de tentar seguir
-- Quais são seus gostos pessoais e como você usa seu tempo livre
-- Algo a mais que queira falar sobre você
+![Imagem de perfil](URL da imagem)
