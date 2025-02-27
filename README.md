@@ -27,7 +27,7 @@ def ola_mundo(){
 
 ## Quem sou eu?
 
-Sou um aluno do 2 ano do ensino médio que curte varias coisas como games, desenhos e esportes. Tenho muito interesse em fazer jogos por isso estou estudando sobre o assunto
+Sou um aluno do 2º ano do ensino médio que curte varias coisas como games, desenhos e esportes. Tenho muito interesse em fazer jogos por isso estou estudando sobre o assunto
 
 ## Oque estou estudando?D
 
