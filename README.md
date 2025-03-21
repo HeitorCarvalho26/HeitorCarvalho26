@@ -1,50 +1,58 @@
-# Este sou eu 
+# 💫 Sobre mim:
 
-Sou o Heitor Carvalho, <ins>aluno de dsi</ins>, _tenho 16 anos_ e gosto de jogos como valorant e ~~fortnite~~
+Estou me formando em DS no Senai-SP
+ 
+# 📊 GitHub Stats:
 
-## Formação acadêmica
+![](https://github-readme-stats.vercel.app/api?username=HeitorCarvalho26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-Estou me formando em tecnologia em Informática para Negócios.
+![](https://nirzak-streak-stats.vercel.app/?user=HeitorCarvalho26&theme=dark&hide_border=false)<br/>
 
-Posso escrever um pequeno trecho de código com `git status` ou então trechos maiores como o abaixo:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorCarvalho26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=HeitorCarvalho26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=HeitorCarvalho26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ 
+---
+
+[![](https://visitcount.itsvg.in/api?id=JoaoVPalandi&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+# Este sou eu
+ 
+Sou o João Plandi, <ins>estudande de DS no SENAI-SP<ins>. Gosto de música.
+ 
+## Estou me formando
+ 
+Estou em minha caminhada para minha formação.
+ 
+Posso escrever um pequeno trecho de código como `git status` ou então trechos maiores como o abaixo:
+ 
 ```javascript
-cosnt costante = 0; //costante pracisa ser inicializada
-```
 
+const constante = 0; //constante precisa ser inicializado
+
+```
+ 
 ```python
-def ola_mundo(){
+
+def ola_mundo() {
+
   print('Olá, Mundo!')
+
 }
+
 ```
-
-## Atividade
-
-# Bom dia sou o Heitor 🔥
-
-![Imagem de perfil](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_BmSRqarBbQAij8Ccs7stZ9ebZEgVZCnyA&s)
-###### Imagem meramente ilustrativa
-
-## Quem sou eu?
-
-Sou um aluno do 2º ano do ensino médio que curte varias coisas como games, desenhos e esportes. Tenho muito interesse em fazer jogos por isso estou estudando sobre o assunto
-
-## Oque estou estudando?D
-
-Atualmente, estou estudando **desenvolvimento web**, com ênfase em **front-end** e **back-end**. Estou aprendendo sobre **JavaScript**, **React**, **Node.js**, **Python** e **bases de dados**. Meu foco é construir aplicações robustas e interativas que possam impactar positivamente os usuários.
-
-## Carreiras que gostaria de seguir
-
-- **Desenvolvedor de Jogos**
-- **Engenheiro de softwere**
-- **Desenvolvedor Full Stack**
-
-## Meus gostos pessoais
-
-Gosto de varias coisas diferentes como:
-- Jogos como Minecraft, Valorant e fortnite
-- Esportes principalmente Baskett, Volei e Futebol
-- Musicas de generos rock e hiphop
-
-## Algo mais sobre mim
-Além de tudo isso sou apaixonado por **desenhos animados** principalmente da cartoon network como ben 10, Apenas um show, Horea de aventura e incrivel mundo de gumball mas também curto desenhos japonesses os famosos animes gosto bastante de One Piece.
+ 
+ 
+ 
