@@ -30,7 +30,7 @@ Estou me formando em DS no Senai-SP
  
 # Este sou eu
  
-Sou o João Plandi, <ins>estudande de DS no SENAI-SP<ins>. Gosto de música.
+Sou o Heitor Carvalho, <ins>estudande de DS no SENAI-SP<ins>.
  
 ## Estou me formando
  
